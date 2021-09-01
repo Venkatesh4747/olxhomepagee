@@ -1,0 +1,129 @@
+    .top {
+        width: 100%;
+        background-color: gray;
+        padding: 20px;
+        margin-right: auto;
+        color: aliceblue;
+    }
+    
+    .search input[type=text] {
+        width: 1755px;
+        height: 25px;
+        border-radius: none;
+        border: solid;
+    }
+    #a1:link, #a1:visited {
+        background-color: #f44336;
+        color: white;
+        padding: 10px 40px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+      
+      #a1:hover, #a1:active {
+        background-color: orange;
+      }
+      #a1{
+          margin-left: auto;  
+          width:  30%;  
+          margin-left: 150px;                         
+      }
+    #a2{
+      float: auto;
+    width:  30%;
+    margin-left: 150px;
+    }
+    .search {
+        float: left;
+        margin: 10px;
+    }
+    
+    button {
+        background-color: #0074D9;
+        cursor: pointer;
+        height: 30px;
+    }
+    
+    img {
+        position: relative;
+        bottom: 8px;
+        height: 400px;
+        width: 100%;
+        display: block;
+        margin-left: 8px;
+        margin-right: none;
+    }
+    
+    .column {
+        position: relative;
+        box-sizing: border-box;
+        float: left;
+        width: 20%;
+        padding: 10px;
+        height: 430px;
+        margin: 15px 40px 5px 40px;
+        border: 1px solid;
+        border-radius: 15px;
+        padding: 5px;
+        color: black;
+        border-color: gray;
+        background-color: white;
+    }
+    
+    .carimg>img {
+        margin-left: 10px;
+        margin-right: 50px;
+        margin-top: 3px;
+        width: 75%;
+        height: 30%;
+        margin-bottom: 2px;
+        cursor: pointer;
+    }
+    
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+    
+    .text {
+        margin: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #page{
+      
+    border: 5px solid black;
+    height: 30px;
+      width:  50%;
+     margin: auto;
+      color: black;
+      margin-left: 50%;
+      background-color:white;
+      margin-top: 15px;
+     }
+
+.frames{
+    width: 100%;
+    height: 200px;
+    background-color: gray;
+    display: flex;
+}
+#footer{
+  
+    width: 100%;
+ height: 20px;
+ text-align: center;
+ color: white;
+ font-size: 20px;
+ text-decoration: none;
+    margin-top: 80px;
+}
+.foot{
+    height: 30px;
+    margin-top: 50px;
+    text-align: center;
+    background-color: seagreen;
+  
+}
